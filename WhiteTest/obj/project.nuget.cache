@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "dn1c6oM3Cgqn66fYy8/GMYyCWxLts3JloyKoIzn6rxnAzFb+eyFnccCl34IEZlfxwfItAVGw46l75TmAcatzuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ADMIN\\Desktop\\Tests\\WhiteTest\\WhiteTest.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\castle.core\\3.3.0\\castle.core.3.3.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\interop.uiautomationclient\\10.19041.0\\interop.uiautomationclient.10.19041.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.net.test.sdk\\16.5.0\\microsoft.net.test.sdk.16.5.0.nupkg.sha512",
+    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\nunit\\3.12.0\\nunit.3.12.0.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\nunit3testadapter\\3.16.1\\nunit3testadapter.3.16.1.nupkg.sha512",
+    "C:\\Users\\ADMIN\\.nuget\\packages\\teststack.white\\0.13.3\\teststack.white.0.13.3.nupkg.sha512"
+  ],
+  "logs": []
+}

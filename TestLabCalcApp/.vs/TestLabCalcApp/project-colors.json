@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bcc2b443-7f87-4db9-bb5d-545ba0055e91": {
+      "ProjectGuid": "bcc2b443-7f87-4db9-bb5d-545ba0055e91",
+      "DisplayName": "TestLabCalcApp",
+      "ColorIndex": 0
+    },
+    "03097a81-57c7-4ba8-9c87-7f6407b820dc": {
+      "ProjectGuid": "03097a81-57c7-4ba8-9c87-7f6407b820dc",
+      "DisplayName": "TestLabCalcApp.Tests",
+      "ColorIndex": 1
+    },
+    "bab34ba0-23ff-46b0-9496-de4cfc7f7f6d": {
+      "ProjectGuid": "bab34ba0-23ff-46b0-9496-de4cfc7f7f6d",
+      "DisplayName": "CalcForm.Tests",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Прочие файлы",
+      "ColorIndex": -1
+    },
+    "a7f5880d-389b-4a8d-b95c-50b3f917a414": {
+      "ProjectGuid": "a7f5880d-389b-4a8d-b95c-50b3f917a414",
+      "DisplayName": "WhiteTest",
+      "ColorIndex": 3
+    },
+    "ed77d47d-0a1f-4e56-a675-9bc514dfb1b5": {
+      "ProjectGuid": "ed77d47d-0a1f-4e56-a675-9bc514dfb1b5",
+      "DisplayName": "SeleniumTest",
+      "ColorIndex": 4
+    },
+    "ebbd6c24-6a91-432b-8b2a-5fc34868dcae": {
+      "ProjectGuid": "ebbd6c24-6a91-432b-8b2a-5fc34868dcae",
+      "DisplayName": "SeleniumTestChrome",
+      "ColorIndex": 5
+    },
+    "2e33a35d-b1a0-40ca-a35b-923fcb044372": {
+      "ProjectGuid": "2e33a35d-b1a0-40ca-a35b-923fcb044372",
+      "DisplayName": "KeywordDrivenTestingCalc",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}
